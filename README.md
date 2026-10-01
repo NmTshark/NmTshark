@@ -1,30 +1,25 @@
 <div align="center">
 
-<pre>
+```text
    ____   ______  ______  ___    ____   __ __  ____  _   __
   / __ \ / ____/ /_  __/ /   |  / __ \ / //_/ /  _/ / | / /
  / / / // /       / /   / /| | / /_/ // ,<    / /  /  |/ /
 / /_/ // /___    / /   / ___ |/ _, _// /| | _/ /  / /|  /
 \____/ \____/   /_/   /_/  |_/_/ |_|/_/ |_|/___/ /_/ |_/
-</pre>
-
-<code>octarkin@github:~$ whoami</code>
-
-<br><br>
+```
 
 <img src="./info-card.svg" width="620" alt="Profile Info">
 
-<br><br>
+<p>
+  <code>Cyber Security • Blue Team • SOC • DFIR</code>
+</p>
 
-<code>Cyber Security • Blue Team • SOC</code>
-
-<br><br>
-
-<a href="https://octarkin.writ.workers.dev/">
-  <strong>🌐 Visit My Security Blog → octarkin.writ.workers.dev</strong>
-</a>
+<p>
+  🌐 <strong><a href="https://octarkin.writ.workers.dev/">Visit My Security Blog → octarkin.writ.workers.dev</a></strong>
+</p>
 
 </div>
+
 ---
 
 ## `~/about`
