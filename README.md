@@ -89,10 +89,10 @@ octarkin@github:~$ cat current_focus.log
 ```bash
 octarkin@github:~$ finger YOUR_USERNAME
 
-github      https://github.com/YOUR_USERNAME
+github      https://github.com/NmTshark
 blog        https://YOUR_BLOG
-linkedin    https://linkedin.com/in/YOUR_LINKEDIN
-tryhackme   https://tryhackme.com/p/YOUR_USERNAME
-email       YOUR_EMAIL
+linkedin    https://www.linkedin.com/in/nmtshark/
+tryhackme   https://tryhackme.com/p/Tonishark
+email       nguyenmanhtoan456@gmail.com
 ```
 
