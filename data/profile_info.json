@@ -1,18 +1,18 @@
 {
-  "username": "AiyzoxX",
+  "username": "Octarkin | Nguyễn Mạnh Toàn",
   "rows": [
     ["host"],
-    ["kv", "Role", "Vibe Coder"],
-    ["kv", "Focus", "Web Applications, Tools & APIs"],
+    ["kv", "Role", "Blue Team / SOC Analyst"],
+    ["kv", "Focus", "SOC, Incident Response, DFIR"],
     ["gap"],
-    ["sec", "Stack"],
-    ["kv", "Languages", "Python, TypeScript, JavaScript"],
-    ["kv", "Frontend", "React, Next.js, Tailwind CSS"],
-    ["kv", "Backend", "FastAPI, Node.js, Express"],
-    ["kv", "Tools", "Docker, Git, Linux, GitHub Actions"],
+    ["sec", "Security Stack"],
+    ["kv", "SIEM", "Wazuh, Splunk"],
+    ["kv", "Tools", "FTK, Autopsy, Volatility, Docker, IDA, Wireshark"],
+    ["kv", "Systems", "Windows, Linux"],
+    ["kv", "Languages", "Python · Bash Linux"],
     ["gap"],
-    ["sec", "Highlights"],
-    ["bul", "Open-source contributor & continuous learner"],
-    ["bul", "Building modern, automated developer experiences"]
+    ["sec", "Currently"],
+    ["bul", "Building Blue Team labs & projects"],
+    ["bul", "Researching Incident Response & SOC Analysis"]
   ]
 }

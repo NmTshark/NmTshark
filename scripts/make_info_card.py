@@ -19,7 +19,7 @@ STATIC = bool(os.environ.get("STATIC"))
 
 USERNAME = os.environ.get("GH_PROFILE_USER", "AiyzoxX")
 
-W, H = 490, 385
+W, H = 490, 310
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -130,6 +130,6 @@ for i, row in enumerate(ROWS):
 
 parts.append("</svg>")
 svg = "".join(parts)
-with open(OUT, "w") as f:
+with open(OUT, "w", encoding="utf-8") as f:
     f.write(svg)
 print("wrote", OUT, len(svg), "bytes;", W, "x", H, "content_bottom", round(y))
