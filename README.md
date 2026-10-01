@@ -16,10 +16,15 @@
 
 <br><br>
 
-<code>Cyber Security • Blue Team • SOC • DFIR</code>
+<code>Cyber Security • Blue Team • SOC</code>
+
+<br><br>
+
+<a href="https://octarkin.writ.workers.dev/">
+  <strong>🌐 Visit My Security Blog → octarkin.writ.workers.dev</strong>
+</a>
 
 </div>
-
 ---
 
 ## `~/about`
@@ -67,6 +72,19 @@ octarkin@github:~$ cat current_focus.log
 
 ## `~/writeups`
 
+```bash
+octarkin@github:~$ ls ~/writeups/
+
+SOC/
+DFIR/
+Network-Forensics/
+Incident-Response/
+CTF/
+Research/
+```
+
+📚 **Full writeups & technical notes:**  
+[https://octarkin.writ.workers.dev/](https://octarkin.writ.workers.dev/)
 
 ---
 
@@ -87,12 +105,19 @@ octarkin@github:~$ cat current_focus.log
 ## `~/contact`
 
 ```bash
-octarkin@github:~$ finger YOUR_USERNAME
-
-github      https://github.com/NmTshark
-blog        https://YOUR_BLOG
-linkedin    https://www.linkedin.com/in/nmtshark/
-tryhackme   https://tryhackme.com/p/Tonishark
-email       nguyenmanhtoan456@gmail.com
+octarkin@github:~$ finger octarkin
 ```
 
+**GitHub:** [github.com/NmTshark](https://github.com/NmTshark)  
+**Blog:** [octarkin.writ.workers.dev](https://octarkin.writ.workers.dev/)  
+**LinkedIn:** [linkedin.com/in/nmtshark](https://www.linkedin.com/in/nmtshark/)  
+**TryHackMe:** [tryhackme.com/p/Tonishark](https://tryhackme.com/p/Tonishark)  
+**Email:** [nguyenmanhtoan456@gmail.com](mailto:nguyenmanhtoan456@gmail.com)
+
+---
+
+<div align="center">
+
+<sub><code>root@blue-team:~# detect → investigate → respond → improve</code></sub>
+
+</div>
